@@ -1,2 +1,2 @@
 # EDCC
-Shell Scripting class work
+BASH Shell Scripting class work
