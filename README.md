@@ -1,2 +1,2 @@
 # EDCC
-Projects for EDCC classes
+Shell Scripting class work
